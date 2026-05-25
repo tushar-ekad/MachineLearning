@@ -1,2 +1,6 @@
 numpy
 scikit-learn
+
+# web scraping
+beautifulsoup4
+lxml
