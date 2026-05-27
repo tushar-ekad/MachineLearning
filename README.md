@@ -17,6 +17,10 @@ A repository for learning and practicing Machine Learning concepts and projects.
 - **online_machine_learning/** - Online ML learning materials
   - `online_ml.ipynb` - Online learning algorithms and concepts
 
+- **004_understanding_your_data/** - EDA and data understanding techniques
+  - `001_asking_basic_ques.ipynb` - Basic questions to ask about a dataset: shape, data types, missing values, duplicates, and correlations
+  - `002_eda_univariate_analysis.ipynb` - Univariate analysis for categorical (countplot, pie chart) and numerical data (histogram, distplot, boxplot)
+
 ### Data
 
 - **data/** - Datasets used while learning

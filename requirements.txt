@@ -4,3 +4,6 @@ scikit-learn
 # web scraping
 beautifulsoup4
 lxml
+
+# plot
+seaborn
