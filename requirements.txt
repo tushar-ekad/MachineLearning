@@ -1,9 +1,9 @@
-numpy
-scikit-learn
+numpy == 2.4.6
+scikit-learn ==1.8.0
 
 # web scraping
-beautifulsoup4
-lxml
+beautifulsoup4 == 4.14.3
+lxml == 6.1.1
 
 # plot
-seaborn
+seaborn == 0.13.2
