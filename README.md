@@ -20,6 +20,7 @@ A repository for learning and practicing Machine Learning concepts and projects.
 - **004_understanding_your_data/** - EDA and data understanding techniques
   - `001_asking_basic_ques.ipynb` - Basic questions to ask about a dataset: shape, data types, missing values, duplicates, and correlations
   - `002_eda_univariate_analysis.ipynb` - Univariate analysis for categorical (countplot, pie chart) and numerical data (histogram, distplot, boxplot)
+  - `003_bivariate_analysis.ipynb` - Bivariate and multivariate analysis for exploring relationships between variables
 
 ### Data
 
