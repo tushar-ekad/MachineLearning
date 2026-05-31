@@ -1,9 +1,16 @@
-numpy == 2.4.6
-scikit-learn ==1.8.0
+numpy
+scikit-learn
 
 # web scraping
-beautifulsoup4 == 4.14.3
-lxml == 6.1.1
+beautifulsoup4
+lxml
 
 # plot
-seaborn == 0.13.2
+seaborn
+
+# pandas profiling
+pydantic
+# pandas-profiling
+ydata-profiling
+
+setuptools == 80.9.0
